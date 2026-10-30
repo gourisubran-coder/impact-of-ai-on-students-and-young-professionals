@@ -89,6 +89,6 @@ Developed an interactive, multi-page Power BI dashboard that transforms primary 
 Aspiring Data Analyst | Power BI | SQL | Excel | Tableau
 
 - GitHub: [@gourisubran-coder](https://github.com/gourisubran-coder)
-- LinkedIn: [Add your LinkedIn profile URL](www.linkedin.com/in/gouri-subrahmanian-924a44196)
+- LinkedIn: [Gouri_Subrahmanian](https://www.linkedin.com/in/gouri-subrahmanian-924a44196/)
 
 *Thank you for visiting my project!*
